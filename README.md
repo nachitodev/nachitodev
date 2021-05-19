@@ -4,9 +4,6 @@
 
 ## Skills: *Java*, *Python*, *Node.js*, *HTML*, *CSS*, *React*
 
-
-
-[<img align=center src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Lzyen)   
-
+![Junai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junai22&show_icons=true&theme=radical)
 
 
