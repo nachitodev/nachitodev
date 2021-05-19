@@ -5,5 +5,5 @@
 ## Skills: *Java*, *Python*, *Node.js*, *HTML*, *CSS*, *React*
 
 ![Junai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junai22&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junai22&show_icons=true&theme=radical)
 
