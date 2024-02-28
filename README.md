@@ -11,7 +11,7 @@
 </p>
 
 ><h4>i love Minecraft and some videogames 🍏, Chemistry 🧪, Devops ☁️, Coffee ☕, and my lovely dog Bruno 🐕! </h4>
-><h4 href="mailto:nachito.dev@proton.me">You can contact me here: nachito.dev@proton.me or nachito@nachito.lol 🗃️</h4>
+><h4 href="mailto:nachito.dev@proton.me">You can contact me here: nachito.dev@proton.me or nacho@nachito.lol 🗃️</h4>
 ><h4>I love the open source community, freedom of speech, i believe in the right to bear arms, and i am a anarchist 🟥⬛ </h4>
 <div align="center">
 
