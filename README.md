@@ -2,8 +2,9 @@
 >## Welcome to my Github Profile, im Ignacio Maidana 🌴☕
 
 >[!NOTE]
-><h4>I am 16 years old, I am from Argentina and I am studying in high school, soon to study software engineering 🏫</h4>
+><h4>I am 16 years old, I am from Argentina and I am studying in high school, soon to study software engineering 🏫 <br> I been programming since i was 13, i started with Python! 🧒 </h4>
 ><h4> My two main languages are Spanish 🇦🇷 (Native) and English :us: (B1) <br> I am also learning Russian :ru: and I know a little bit of Portuguese :brazil: </h4>
+
 
 <p align="center">
 <img height=125 width=367 src="https://github.com/nachitodev/nachitodev/assets/67612701/76f7e14d-5dca-4123-99fa-e0f8a3396fae"/>
