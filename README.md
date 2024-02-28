@@ -1,9 +1,63 @@
-## *Hi, Im Nachito, a Junior Dev.*
 
-![Background](https://i.pinimg.com/originals/d4/c1/7d/d4c17d48d9e0a5ac9986887163f435ec.jpg)
+>## Welcome to my Github Profile, im Ignacio Maidana 🌴☕
 
-## Skills: *Python*, *Typescript*, *C#*, *React*, *Linux (Ubuntu, Arch, ARM)*
+>[!NOTE]
+><h4>I am 16 years old, I am from Argentina and I am studying in high school, soon to study software engineering 🏫</h4>
+><h4> My two main languages are Spanish 🇦🇷 (Native) and English :us: (B1) <br> I am also learning Russian :ru: and I know a little bit of Portuguese :brazil: </h4>
 
-![Junai's GitHub stats](https://github-readme-stats.vercel.app/api?username=nachitodev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nachitodev&show_icons=true&theme=radical)
+<p align="center">
+<img height=125 width=367 src="https://github.com/nachitodev/nachitodev/assets/67612701/76f7e14d-5dca-4123-99fa-e0f8a3396fae"/>
+</p>
+
+><h4>i love Minecraft and some videogames 🍏, Chemistry 🧪, Devops ☁️, Coffee ☕, and my lovely dog Bruno 🐕! </h4>
+><h4 href="mailto:nachito.dev@proton.me">You can contact me here: nachito.dev@proton.me or nachito@nachito.lol 🗃️</h4>
+><h4>I love the open source community, freedom of speech, i believe in the right to bear arms, and i am a anarchist 🟥⬛ </h4>
+<div align="center">
+
+<br>
+
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=nachitodev&theme=dark)
+
+
+### _**Programming Languages 💻**_
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat" alt="TypeScript Badge"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" alt="JavaScript Badge">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat" alt="Python Badge">
+<img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=flat" alt="C# Badge">
+<img src="https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat" alt="Rust Badge"> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" alt="HTML5 Badge"> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat" alt="CSS3 Badge"> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat" alt="GNU Bash Badge"> <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=flat" alt="PowerShell Badge">
+
+### _**Tools & Software 🛠️🔮**_
+
+<img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=fff&style=flat" alt="Insomnia Badge"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat" alt="Git Badge"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat" alt="Docker Badge">
+<img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat" alt="Node.js Badge"> <img src="https://img.shields.io/badge/.ENV-ECD53F?logo=dotenv&logoColor=000&style=flat" alt=".ENV Badge">
+<img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=flat" alt="Vim Badge"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" alt="Visual Studio Code Badge">
+
+### _**Frameworks and Libraries 📚**_
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat" alt="Tailwind CSS Badge"> <img src="https://img.shields.io/badge/Fastify-000?logo=fastify&logoColor=fff&style=flat" alt="Fastify Badge">
+<img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=flat" alt="NestJS Badge">
+<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat" alt="Vite Badge">
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat" alt="React Badge">
+<img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=flat" alt="Prisma Badge">
+<img src="https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=fff&style=flat" alt="Tauri Badge">
+<img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat" alt="Express Badge">
+<img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=flat" alt="NGINX Badge">
+
+### _**Databases & Cloud Providers ☁️**_
+
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat" alt="PostgreSQL Badge"> <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=flat" alt="Supabase Badge">
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat" alt="MySQL Badge">
+<img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat" alt="Vercel Badge">
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat" alt="GitHub Actions Badge"> <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=flat" alt="Cloudflare Badge"> <img src="https://img.shields.io/badge/Amazon%20EC2-F90?logo=amazonec2&logoColor=fff&style=flat" alt="Amazon EC2 Badge"><img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=flat" alt="Redis Badge"> <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat" alt="MongoDB Badge"> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" alt="GitHub Badge">
+ 
+
+### _**OS 🛡️**_
+<img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=flat" alt="Debian Badge"> <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=flat" alt="Arch Linux Badge"> <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat" alt="Ubuntu Badge">
+
+
+### _Live free or die. You cant stop the signal. Love and peace for XXI century <3_
+
+</div>
+
+
 
