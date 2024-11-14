@@ -2,23 +2,17 @@
 >## Welcome to my Github Profile, im Ignacio Maidana 🌴☕
 
 >[!NOTE]
-><h4>I am 16 years old, I am from Argentina and I am studying in high school, soon to study software engineering 🏫 <br> I been programming since i was 13, i started with Python! 🧒 </h4>
-><h4> My two main languages are Spanish 🇦🇷 (Native) and English :us: (B1) <br> I am also learning Russian :ru: and I know a little bit of Portuguese :brazil: </h4>
-
+><h4>Hi everyone! I'm Nacho and i am 16 years old from Argentina, currently studying both in high school and at the University of Buenos Aires (UBA) 🏫, where I’m studying Computer Science. <br> I started programming at 13 with Python 🧒, and it’s been an exciting journey ever since!</h4> <h4> My native language is Spanish 🇦🇷, and I have a B1 level in English 🇺🇸, which lets me connect with diverse communities and resources as I keep learning and growing.</h4>
 
 <p align="center">
 <img height=125 width=367 src="https://github.com/nachitodev/nachitodev/assets/67612701/76f7e14d-5dca-4123-99fa-e0f8a3396fae"/>
 </p>
 
-><h4>i love Minecraft and some videogames 🍏, Chemistry 🧪, Devops ☁️, Coffee ☕, and my lovely dog Bruno 🐕! </h4>
-><h4 href="mailto:nachito.dev@proton.me">You can contact me here: nachito.dev@proton.me or nacho@nachito.lol 🗃️</h4>
-><h4>I love the open source community and the freedom of speech </h4>
+><h4>I’m a big fan of Minecraft and other video games 🍏, Chemistry 🧪, DevOps ☁️, coffee ☕, and, of course, my lovely dog Bruno 🐕! I’m also passionate about the open-source community and the value of freedom of speech. <br> You can reach me at <a href="mailto:nachito.dev@proton.me">nachito.dev@proton.me</a> or <a href="mailto:nacho@nachito.lol">nacho@nachito.lol</a> 🗃️.</h4>
 <div align="center">
-
 <br>
 
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=nachitodev&theme=dark)
-
 
 ### _**Programming Languages 💻**_
 
@@ -56,7 +50,7 @@
 <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=flat" alt="Debian Badge"> <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=flat" alt="Arch Linux Badge"> <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat" alt="Ubuntu Badge">
 
 
-### _Live free or die. You cant stop the signal. Love and peace for XXI century <3_
+### _Love and peace for XXI century <3_
 
 </div>
 
