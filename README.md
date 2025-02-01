@@ -8,7 +8,7 @@
 <img height=125 width=367 src="https://github.com/nachitodev/nachitodev/assets/67612701/76f7e14d-5dca-4123-99fa-e0f8a3396fae"/>
 </p>
 
-><h4>I’m a big fan of Minecraft and other video games 🍏, Chemistry 🧪, DevOps ☁️, coffee ☕, and, of course, my lovely dog Bruno 🐕! I’m also passionate about the open-source community and the value of freedom of speech. <br> You can reach me at <a href="mailto:nachito.dev@proton.me">nachito.dev@proton.me</a> or <a href="mailto:nacho@nachito.lol">nacho@nachito.lol</a> 🗃️.</h4>
+><h4>I’m a big fan of Minecraft and other video games 🍏, Chemistry 🧪, DevOps ☁️, coffee ☕, geek things 👓,  programming 💻 and, of course, my lovely dog Bruno 🐕! I’m also passionate about the open-source community and the value of freedom of speech. <br> You can reach me at <a href="mailto:nachito.dev@proton.me">nachito.dev@proton.me</a> 🗃️.</h4>
 <div align="center">
 <br>
 
