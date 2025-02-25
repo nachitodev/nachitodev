@@ -2,7 +2,7 @@
 >## Welcome to my Github Profile, im Ignacio Maidana 🌴☕
 
 >[!NOTE]
-><h4>Hi everyone! I'm Nacho and i am 16 years old from Argentina, currently studying both in high school and at the University of Buenos Aires (UBA) 🏫, where I’m studying Computer Science. <br> I started programming at 13 with Python 🧒, and it’s been an exciting journey ever since!</h4> <h4> My native language is Spanish 🇦🇷, and I have a B1 level in English 🇺🇸, which lets me connect with diverse communities and resources as I keep learning and growing.</h4>
+><h4>Hi everyone! I'm Nacho and i am 17 years old from Argentina, currently studying both in high school and at the University of Buenos Aires (UBA) 🏫, where I’m studying Computer Science. <br> I started programming at 13 with Python 🧒, and it’s been an exciting journey ever since!</h4> <h4> My native language is Spanish 🇦🇷, and I have a B1 level in English 🇺🇸, which lets me connect with diverse communities and resources as I keep learning and growing.</h4>
 
 <p align="center">
 <img height=125 width=367 src="https://github.com/nachitodev/nachitodev/assets/67612701/76f7e14d-5dca-4123-99fa-e0f8a3396fae"/>
