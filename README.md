@@ -20,17 +20,32 @@
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat" alt="TypeScript Badge"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" alt="JavaScript Badge">
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat" alt="Python Badge">
-<img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=flat" alt="C# Badge">
-<img src="https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat" alt="Rust Badge"> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" alt="HTML5 Badge"> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat" alt="CSS3 Badge"> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat" alt="GNU Bash Badge"> <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=flat" alt="PowerShell Badge">
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+<img src="https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat" alt="Rust Badge"> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" alt="HTML5 Badge"> 
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat" alt="GNU Bash Badge"> 
+[![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff)](#)
 
 ### _**Tools & Software 🛠️🔮**_
 
-<img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=fff&style=flat" alt="Insomnia Badge"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat" alt="Git Badge"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat" alt="Docker Badge">
-<img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat" alt="Node.js Badge"> <img src="https://img.shields.io/badge/.ENV-ECD53F?logo=dotenv&logoColor=000&style=flat" alt=".ENV Badge">
-<img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=flat" alt="Vim Badge"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" alt="Visual Studio Code Badge">
+<img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=fff&style=flat" alt="Insomnia Badge">
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat" alt="Git Badge">
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat" alt="Docker Badge">
+<img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat" alt="Node.js Badge">
+<img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=flat" alt="Vim Badge">
+
+[![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor)](#)
+[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
 
 ### _**Frameworks and Libraries 📚**_
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat" alt="Tailwind CSS Badge"> <img src="https://img.shields.io/badge/Fastify-000?logo=fastify&logoColor=fff&style=flat" alt="Fastify Badge">
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat" alt="Tailwind CSS Badge"> 
+<img src="https://img.shields.io/badge/Fastify-000?logo=fastify&logoColor=fff&style=flat" alt="Fastify Badge">
 <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=flat" alt="NestJS Badge">
 <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat" alt="Vite Badge">
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat" alt="React Badge">
@@ -39,15 +54,31 @@
 <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat" alt="Express Badge">
 <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=flat" alt="NGINX Badge">
 
+[![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)](#)
+[![Electron](https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff)](#)
+[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
+[![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#)
+
 ### _**Databases & Cloud Providers ☁️**_
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat" alt="PostgreSQL Badge"> <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=flat" alt="Supabase Badge">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat" alt="PostgreSQL Badge"> 
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=flat" alt="Supabase Badge">
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat" alt="MySQL Badge">
 <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat" alt="Vercel Badge">
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat" alt="GitHub Actions Badge"> <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=flat" alt="Cloudflare Badge"> <img src="https://img.shields.io/badge/Amazon%20EC2-F90?logo=amazonec2&logoColor=fff&style=flat" alt="Amazon EC2 Badge"><img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=flat" alt="Redis Badge"> <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat" alt="MongoDB Badge"> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" alt="GitHub Badge">
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat" alt="GitHub Actions Badge"> 
+<img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=flat" alt="Cloudflare Badge"> 
+<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=flat" alt="Redis Badge"> 
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat" alt="MongoDB Badge"> 
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" alt="GitHub Badge">
+
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
 
 ### _**OS 🛡️**_
 <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=flat" alt="Debian Badge"> <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=flat" alt="Arch Linux Badge"> <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat" alt="Ubuntu Badge">
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
 ---
 
