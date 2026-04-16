@@ -100,11 +100,12 @@
 
 <h4>I’m also interested in cybersecurity and responsible disclosure. I have responsibly reported vulnerabilities to the following organizations:</h4>
 
-- 🏢 <a href="https://spazios.com.ar/">Spazios</a>
+- 🏢 <a href="https://spazios.com.ar/">Spazios - Desarrolladora Inmobiliaria</a>
 - 🏛️ <a href="https://www.argentina.gob.ar/seguridad">Ministerio de Seguridad de la Nación Argentina</a>
 - 🌿 <a href="https://www.argentina.gob.ar/salud/cannabis-medicinal/reprocann">REPROCANN – Ministerio de Salud Argentina</a>
 - 🏙️ <a href="https://www.sannicolasciudad.gob.ar/">Municipalidad de San Nicolás</a>
 - 🪪 <a href="https://www.argentina.gob.ar/interior/renaper">RENAPER – Registro Nacional de las Personas</a>
+- 📖 <a href="https://becasprogresar.educacion.gob.ar/"> Becas Progresar - Becas Estudiantiles</a>
 - 🔒 Other private companies under NDA
 
 <h4>I believe in ethical hacking, responsible disclosure, and strengthening digital infrastructure.</h4>
